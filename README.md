@@ -23,9 +23,7 @@ XGBoost achieved the best performance — predicting movie ratings within ~0.71 
 
 ```
 movie-success-predictor/
-├── data/
-│   └── your_dataset.csv       # Place your dataset here
-├── movie_predictor.ipynb      # Main notebook — all phases
+├── predict.ipynb      # Main notebook — all phases
 └── README.md
 ```
 
@@ -55,7 +53,7 @@ Key columns used:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/movie-success-predictor.git
+git clone https://github.com/r31Ha/Movie-rating-predictor-2025
 cd movie-success-predictor
 ```
 
